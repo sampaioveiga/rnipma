@@ -1,0 +1,17 @@
+{
+  "name": "rnipma",
+  "displayName": "rnipma",
+  "expo": {
+    "name": "rnipma",
+    "slug": "rnipma",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
